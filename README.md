@@ -49,8 +49,8 @@ A Streamlit web app that fetches YouTube comments and analyzes their sentiment u
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/youtube-sentiment-analyzer.git
-cd youtube-sentiment-analyzer
+git clone https://github.com/krishrakholiya32/Youtube-Sentiment-Analyzer.git
+cd Youtube-Sentiment-Analyzer
 ```
 
 ### 2. Install dependencies
