@@ -7,6 +7,8 @@ A Streamlit web app that fetches YouTube comments and analyzes their sentiment u
 ![Groq](https://img.shields.io/badge/Groq-LLaMA_3.3_70B-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+**[🚀 Live Demo → youtube-sentiment-analyzer-zrik.streamlit.app](https://youtube-sentiment-analyzer-zrik.streamlit.app/)**
+
 ---
 
 ## ✨ Features
